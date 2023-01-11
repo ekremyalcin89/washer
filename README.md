@@ -17,3 +17,7 @@ This app made with
 * Parse Server Service 
 
 Thank you .
+
+You can watch the video from link down below.
+
+https://www.linkedin.com/posts/iekremyalcin89_2018-de-%C3%A7o%C4%9Fu-gen%C3%A7-gibi-bir-i%C5%9F-kurma-hayali-activity-6995767756902002688-Ir4y?utm_source=share&utm_medium=member_desktop
