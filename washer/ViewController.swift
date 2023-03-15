@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  washer
 //
-//  Created by Tayyip on 4.11.2022.
+//  Created by Ekrem on 4.11.2022.
 //
 
 import UIKit
